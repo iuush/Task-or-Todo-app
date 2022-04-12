@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-willings/static/css/main.5efefd95.css",
+    "main.js": "/todo-willings/static/js/main.3c8dee0f.js",
+    "index.html": "/todo-willings/index.html",
+    "main.5efefd95.css.map": "/todo-willings/static/css/main.5efefd95.css.map",
+    "main.3c8dee0f.js.map": "/todo-willings/static/js/main.3c8dee0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5efefd95.css",
+    "static/js/main.3c8dee0f.js"
+  ]
+}
